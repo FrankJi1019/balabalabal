@@ -1,17 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.6d3f3f0f.css",
-    "main.js": "/static/js/main.11243350.js",
+    "main.js": "/static/js/main.4c17945f.js",
     "static/media/png": "/static/media/9ce3f08a5b75c54e3b5817b335c0b7d.77de10fec64e72ebfad4.png",
+    "static/media/labour.jpg": "/static/media/labour.c5381dd13aa267a5edde.jpg",
+    "static/media/oversear-study.png": "/static/media/oversear-study.ed99a4d52a10a72d5258.png",
     "static/media/jpg": "/static/media/e43212f9a850f2eee3f21a3a1eab7bb.1df52c0efedb69e6a612.jpg",
+    "static/media/hr.jpg": "/static/media/hr.23afbd70f91847bb4939.jpg",
+    "static/media/imgra0-consu.jpg": "/static/media/imgra0-consu.eb751e2df840ae18599d.jpg",
+    "static/media/nz-market.jpg": "/static/media/nz-market.17e63a2a4814caf2700d.jpg",
     "static/media/logo.png": "/static/media/logo.25bf87982ba9416c2996.png",
-    "static/media/contact.jpg": "/static/media/contact.d0475c55376ed6479755.jpg",
+    "static/media/internation-law.jpg": "/static/media/internation-law.e733d0f8580718b59fa7.jpg",
+    "static/media/shanghai.jpg": "/static/media/shanghai.ba2a139024f0d06800e3.jpg",
+    "static/media/oversea-study.jpg": "/static/media/oversea-study.417316a428e67697f35f.jpg",
+    "static/media/viet-hr.jpg": "/static/media/viet-hr.eea86fb305f30c1ebc5f.jpg",
+    "static/media/tutorial.jpg": "/static/media/tutorial.dcde6f230d1d6afa50f7.jpg",
+    "static/media/interview.jpg": "/static/media/interview.13eedd4340d59b1d07a2.jpg",
     "index.html": "/index.html",
     "main.6d3f3f0f.css.map": "/static/css/main.6d3f3f0f.css.map",
-    "main.11243350.js.map": "/static/js/main.11243350.js.map"
+    "main.4c17945f.js.map": "/static/js/main.4c17945f.js.map"
   },
   "entrypoints": [
     "static/css/main.6d3f3f0f.css",
-    "static/js/main.11243350.js"
+    "static/js/main.4c17945f.js"
   ]
 }
