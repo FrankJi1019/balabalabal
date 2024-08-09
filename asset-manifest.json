@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d3f3f0f.css",
-    "main.js": "/static/js/main.4c17945f.js",
+    "main.js": "/static/js/main.bdd6ea0b.js",
     "static/media/png": "/static/media/9ce3f08a5b75c54e3b5817b335c0b7d.77de10fec64e72ebfad4.png",
     "static/media/labour.jpg": "/static/media/labour.c5381dd13aa267a5edde.jpg",
     "static/media/oversear-study.png": "/static/media/oversear-study.ed99a4d52a10a72d5258.png",
@@ -18,10 +18,10 @@
     "static/media/interview.jpg": "/static/media/interview.13eedd4340d59b1d07a2.jpg",
     "index.html": "/index.html",
     "main.6d3f3f0f.css.map": "/static/css/main.6d3f3f0f.css.map",
-    "main.4c17945f.js.map": "/static/js/main.4c17945f.js.map"
+    "main.bdd6ea0b.js.map": "/static/js/main.bdd6ea0b.js.map"
   },
   "entrypoints": [
     "static/css/main.6d3f3f0f.css",
-    "static/js/main.4c17945f.js"
+    "static/js/main.bdd6ea0b.js"
   ]
 }
